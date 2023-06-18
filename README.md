@@ -12,3 +12,4 @@ Alumno: Marco Antonio De Jesús Mejía
 4. TriFiv V3.java
 5. TriFiv V4.java
 6. Juego
+7. Diagrama
